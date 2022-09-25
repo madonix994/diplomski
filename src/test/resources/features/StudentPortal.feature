@@ -1,6 +1,5 @@
 Feature: Student portal website test feature
 
-
   @smoke
   Scenario: Student portal home page validations
     Given User navigates to Student Portal website
